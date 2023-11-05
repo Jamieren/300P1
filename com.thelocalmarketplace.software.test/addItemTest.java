@@ -1,3 +1,8 @@
+//Author: Zhenhui Ren(UCID:30139966)
+//Date: Nov 4th,2023
+//This class is addijg item via barcode scanner
+// Assume the product customer scan has a barcode
+
 import org.junit.Before;
 import org.junit.Test;
 
