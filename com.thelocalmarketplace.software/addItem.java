@@ -1,3 +1,7 @@
+//Author: Zhenhui Ren (UCID:30139966)
+//Date: Nov 4, 2023
+//this class is implementing method when customers adding item through barcode scanner
+
 package com.thelocalmarketplace.software;
 
 import com.jjjwelectronics.scanner.Barcode;
